@@ -1,0 +1,8 @@
+{
+  "name": "ResearchHub AI",
+  "description": "A comprehensive intelligent research paper management system for researchers to organize, analyze, and discover academic papers using advanced Gemini AI capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
